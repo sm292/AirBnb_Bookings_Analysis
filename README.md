@@ -136,8 +136,6 @@ The Power BI file is included in this repository for interactive exploration.
 
 ![Power BI Airbnb Dashboard](./powerbi-dashboard.png)
 
-*Add a screenshot of your actual Power BI dashboard to the path shown above.*
-
 ### Suggested dashboard exploration
 
 Depending on the visuals and measures included in the existing report, explore:
@@ -159,8 +157,6 @@ The Tableau packaged workbook is available for dashboard exploration and visual 
 ### Dashboard Preview
 
 ![Tableau Airbnb Dashboard](./tableau-dashboard.png)
-
-*Add a screenshot of your actual Tableau dashboard to the path shown above.*
 
 ### Suggested dashboard exploration
 
